@@ -22,7 +22,7 @@
 - Total amount to be paid out per region and company-wide
 
 ## Final Task: Dashboard Creation
-Using your cleaned dataset and pivot outputs, build an Excel dashboard.
+Build an Excel dashboard using the cleaned data set and pivot outputs
 
 ## Tools Used
 Ms Excel
